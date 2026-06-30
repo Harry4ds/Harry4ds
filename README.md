@@ -1,13 +1,70 @@
 # Hi, I'm Harshit Patel 👋
 
-**Data Analyst / BI Analyst / Analytics Engineer** — Python • SQL • Power BI • Azure (ADF/Synapse/Databricks)  
-Data Science Student at SAIT (2024-2025) | Seeking full-time opportunities (Calgary & Edmonton preferred; open to remote)
+**Data Engineer | Analytics Engineer | Data Analyst**
 
-## Featured Projects
-- 📊 **Social Media Ads Analysis (Power BI)** — campaign performance, budget efficiency, targeting insights, and funnel conversion
-- 🛒 **Customer Analytics & Recommendation System (Instacart)** — RFM/CLV segmentation, clustering, and explainable hybrid recommendations (ALS + association rules)
+I build end-to-end data solutions — from scalable pipelines and 
+medallion architecture to BI dashboards and analytics — across 
+the full data lifecycle.
 
-## Skills
-- **Analytics & BI:** Power BI, DAX, KPI design, reporting
-- **Data Engineering:** ETL/ELT, data transformation, data quality checks
-- **Tech:** Python, SQL, Azure (ADF/Synapse/Databricks) + AWS/GCP exposure
+Based in Alberta, Canada | Open to Full-time & Contract | 
+Remote / Hybrid / On-site | PGWP – No Sponsorship Required
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Query**
+SQL · Python · PySpark · Spark SQL · DAX
+
+**Platforms & Tools**
+Databricks · Azure Data Factory · Microsoft Fabric · 
+Power BI · Delta Lake · Unity Catalog
+
+**Cloud**
+Azure · AWS (Glue, Redshift) · GCP (BigQuery)
+
+**Other**
+GitHub · Excel · MS SQL Server
+
+---
+
+## 🚀 Featured Project
+
+### Instacart Databricks Lakehouse Analytics
+End-to-end lakehouse analytics solution built on Databricks 
+Free Edition using a medallion architecture.
+
+- Bronze → Silver → Gold medallion pipeline
+- PySpark, Spark SQL, Delta Lake, Unity Catalog
+- 16 automated data quality checks — all passed
+- Rule-based customer segmentation
+- Databricks AI/BI dashboard with executive KPIs
+
+🔗 [View Repository](https://github.com/Harry4ds/instacart-databricks-lakehouse)
+📝 [Read the Walkthrough on Medium](https://medium.com/@harshitpatel4ds/building-an-end-to-end-lakehouse-on-databricks-instacart-analytics-from-pipeline-to-insight-a88483aa3895)
+
+---
+
+## 📝 Articles
+
+- [From Experience to Understanding: What Two Databricks 
+Learning Tracks Taught Me About the Modern Data 
+Lifecycle](https://medium.com/@harshitpatel4ds/from-experience-to-understanding-what-two-databricks-learning-tracks-taught-me-about-the-modern-ac005a8beebe)
+
+- [Building an End-to-End Lakehouse on Databricks: Instacart 
+Analytics from Pipeline to 
+Insight](https://medium.com/@harshitpatel4ds/building-an-end-to-end-lakehouse-on-databricks-instacart-analytics-from-pipeline-to-insight-a88483aa3895)
+
+---
+
+## 🌐 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-harshitpatel0603-blue?logo=linkedin)](https://www.linkedin.com/in/harshitpatel0603/)
+[![Medium](https://img.shields.io/badge/Medium-harshitpatel4ds-black?logo=medium)](https://medium.com/@harshitpatel4ds)
+
+---
+
+## 💼 Open To
+
+Data Engineer · Analytics Engineer · Data Analyst · BI Analyst
+Calgary · Edmonton · Vancouver · Toronto · Remote · Hybrid
