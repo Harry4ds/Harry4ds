@@ -28,7 +28,7 @@ GitHub · Excel · MS SQL Server
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 ### Instacart Databricks Lakehouse Analytics
 End-to-end lakehouse analytics solution built on Databricks 
@@ -64,6 +64,17 @@ pipeline and compliance-aware data management.
 - Power BI reporting + ML-ready curated datasets
 - Failure handling, monitoring, and healthcare compliance (HIA/HIPAA-aware) built into the design
 🔗 [View Repository](https://github.com/Harry4ds/clinic-plus-azure-data-architecture)
+
+### 📊 Social Media Advertising Performance Analysis (Power BI)
+Interactive three-page Power BI dashboard analyzing 50 campaigns, 
+$2.54M in ad spend, and 340K impressions across Facebook and Instagram.
+
+- Star schema data model (event-level fact table + campaign, ad, user, and date dimensions)
+- DAX KPIs: engagements per $1K, engagement rate, CTR, and action/click rate
+- Budget efficiency, ad targeting, demographic, and engagement funnel analysis
+- Key insight: spend scaled volume, not engagement rate — efficiency was driven by reach per dollar
+
+🔗 [View Repository](https://github.com/Harry4ds/social-media-advertising-powerbi-analysis)
 ---
 
 ## 📝 Articles
